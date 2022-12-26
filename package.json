@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/CoffeeBeansLabs/country-state-district/issues"
   },
+  "publishConfig": {
+    "registry": "https://www.npmjs.com/package/@coffeebeanslabs/country_state_district"
+  },
   "homepage": "https://github.com/CoffeeBeansLabs/country-state-district#readme"
 }
