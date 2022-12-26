@@ -1,6 +1,7 @@
 # country_state_district
-
 > By this package you can get a list of countries, states and districts.
+> This package also allow to get districts and states in hindi and marathi also.
+
 
 
 

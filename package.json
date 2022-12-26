@@ -1,7 +1,7 @@
 {
-  "name": "country_state_district",
-  "version": "1.0.4",
-  "description": "By this package you can get a list of countries, states and districts.",
+  "name": "country_state_district-v2",
+  "version": "1.0.0",
+  "description": "By this package you can get a list of countries, states and districts for marathi and hindi also",
   "main": "index.js",
   "scripts": {
     "test": "mocha tests/*.js -R spec --ui bdd --timeout 5000"
@@ -10,14 +10,14 @@
     "chai": "^4.2.0",
     "mocha": "^8.0.1"
   },
-  "author": "mrafiqk",
+  "author": "sharmaPr25",
   "license": "ISC",
   "directories": {
     "test": "tests"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrafiqk/country-state-district.git"
+    "url": "git+https://github.com/CoffeeBeansLabs/country-state-district"
   },
   "keywords": [
     "nodejs",
@@ -26,7 +26,7 @@
     "district"
   ],
   "bugs": {
-    "url": "https://github.com/mrafiqk/country-state-district/issues"
+    "url": "https://github.com/CoffeeBeansLabs/country-state-district/issues"
   },
-  "homepage": "https://github.com/mrafiqk/country-state-district#readme"
+  "homepage": "https://github.com/CoffeeBeansLabs/country-state-district#readme"
 }
