@@ -1,6 +1,6 @@
 {
   "name": "@coffeebeanslabs/country_state_district",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "By this package you can get a list of countries, states and districts for marathi and hindi also",
   "main": "index.js",
   "scripts": {
